@@ -1,0 +1,3 @@
+rootProject.name = 'padroes-de-arquitetura'
+include 'mvc'
+
