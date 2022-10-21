@@ -1,6 +1,0 @@
-plugins {
-    id 'java'
-}
-
-group 'com.maraujo'
-version '1.0-SNAPSHOT'
